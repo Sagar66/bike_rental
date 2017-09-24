@@ -1,0 +1,94 @@
+.navbar-inverse {
+    background-color: #322f2f;
+    border-color: #080808;
+    color:#808080;
+}	
+.navbar-inverse .navbar-nav > li > a{
+	color:white !important;
+}
+.main{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	background-color: #878384;
+	/*background-color:transparent;*/
+	padding: 5px 15px 15px 15px;
+	border-radius: 15px;
+}
+.side
+{
+
+	margin-top: 15px;
+	border-radius: 15px !important;
+}
+.mbody{
+margin-top: 12px;
+border-radius: 15px;
+margin-bottom: 5px;
+background: -webkit-radial-gradient(center, circle, rgba(255,255,255,.35), rgba(255,255,255,0) 20%, rgba(255,255,255,0) 21%), -webkit-radial-gradient(center, circle, rgba(0,0,0,.2), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 21%), -webkit-radial-gradient(center, circle farthest-corner, #f0f0f0, #c0c0c0);
+background: -moz-radial-gradient(center, circle, rgba(255,255,255,.35), rgba(0,255,255,0) 20%, rgba(255,255,255,0) 21%), -moz-radial-gradient(center, circle, rgba(0,0,0,.2), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 21%), -moz-radial-gradient(center, circle farthest-corner, #f0f0f0, #c0c0c0);
+    background-repeat: repeat, repeat, repeat;
+    background-position-x: 0%, 0%, 0%;
+    background-position-y: 0%, 0%, 0%;
+    background-size: auto auto, auto auto, auto auto;
+background-size: 10px 10px, 10px 10px, 100% 100%;
+background-repeat: repeat, repeat, no-repeat;
+background-position: 1px 1px, 0px 0px, center center;
+text-align: center;
+}
+.table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td{
+	    border: 2px solid #8c8383 !important;
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: rgb(51, 31, 31);
+        border-right-color: rgb(51, 31, 31);
+        border-bottom-color: rgb(51, 31, 31);
+        border-left-color: rgb(51, 31, 31);
+        -moz-border-top-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        border-image-source: none;
+        border-image-slice: 100%;
+        border-image-width: 1;
+        border-image-outset: 0;
+        border-image-repeat: stretch stretch;
+        text-align: center;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+font-family: #DEA2AF important;
+font-weight: 500;
+line-height: 1.1;
+color: inherit;
+}
+.footer{
+	background: url('bike.jpg');
+	background-size: 1366px 60px;
+	background-color: black;
+
+}
+.my{
+    padding :15px;
+    background-color: whitesmoke;
+    border-radius: 15px !important;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+
+}
+.large{
+    margin-top:10px;
+    font-size: 15px;
+}
+.gap{
+    margin-top: 20px;
+}
+a:hover, a:focus{
+        color: #23527c;
+        text-decoration:none;
+}

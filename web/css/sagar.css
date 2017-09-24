@@ -1,0 +1,35 @@
+.sagarcontent{
+	background-color:grey;
+	padding:10px 15%;
+	border-radius: 15px;
+
+}
+
+.check{
+	background-color:whitesmoke;
+	padding:10px;
+}
+.element{
+	background-color: transparent !important;
+}
+.homex{
+   	background-color:grey;
+        width: 100%;
+        height: 100%;
+}
+.mb{
+    background-color: #909090;
+    width: 180px;
+    height: 180px;
+    border-color: red;
+    border: 2px solid;
+    border-radius: 18px;
+    margin:0px 5px 10px 5px;
+    width: 31%;
+    box-shadow: 10px 10px 2px #888888;
+}
+.main_node{
+padding: 10px 80px;
+color: black;
+font-size: 15px;
+}
